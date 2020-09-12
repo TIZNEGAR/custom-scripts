@@ -1,5 +1,5 @@
 //Identify active fire points
-//by Tiznger startup co
+//by Tiznegar startup co
 //www.tiznegar.com
 
 //To increase the accuracy of altitude <3km Or zoom >12
