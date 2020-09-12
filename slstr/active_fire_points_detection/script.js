@@ -1,6 +1,6 @@
 // high accuracy Detect active fire points 
 //Sentinel-3 SLSTR
-//by Tiznger startup co
+//by Tiznegar startup co
 //www.tiznegar.com
 
 var SAHM= ((S6 - S5) / (S6 + S5));
